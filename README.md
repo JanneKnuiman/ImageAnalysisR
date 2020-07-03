@@ -1,7 +1,7 @@
 # ImageAnalysisR
 Image Analyzing Project using R and HADOOP. Made by: Valerie Verhalle, Sanne Schröduer and Janne Knuiman
 
-See also our other repository: Image Analyzing Python Project (https://github.com/JanneKnuiman/ImageAnalysisPyhton)
+See also our other repository: Image Analysis Python Project (https://github.com/JanneKnuiman/ImageAnalysisPyhton)
 
 Start date: 20-04-2020
 
